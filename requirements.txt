@@ -1,1 +1,6 @@
 streamlit
+mistralai>=0.0.11
+opencv-python-headless
+pillow
+numpy
+python-dotenv
